@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 20px;
+}
+.container{
+    display: inline-flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+.container2{
+    display: flex;
+}
+.div1{
+    background-color: antiquewhite;
+}
+.div2{
+    background-color: bisque;
+}
+.div3{
+    background-color: aquamarine;
+}
+.div4{
+    background-color: blue;
+}
+.div5{
+    background-color: yellowgreen;
+}
